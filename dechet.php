@@ -1,10 +1,10 @@
 <?php include("head.php"); ?>
 <!-- CONTENU HTML -->
-<div class="logo">
+                <div class="logo">
                     <img src="./IMG/logo-dechets.svg" alt="logo-dechets">
                 </div>
                 <h1> L’Intelligence Artificielle pour les déchets</h1>
-                <h2 >Valorisation des déchets, faites des économies</h2>
+                <h2 class="h2pages">Valorisation des déchets, faites des économies</h2>
                 
                 <section id="dechets">
                     <article class="ContenuPages">

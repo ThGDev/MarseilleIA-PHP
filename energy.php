@@ -4,7 +4,7 @@
                     <img src="./IMG/logo-energy.svg" alt="sante">
                 </div>
                 <h1>L’Intelligence Artificielle dans le domaine de l’énergie</h1>
-                <h2>L'intelligence artificielle, accélérateur de transition énergétique ?</h2>
+                <h2 class="h2pages">L'intelligence artificielle, accélérateur de transition énergétique ?</h2>
         
                 <section id="energy">
                     <article class="ContenuPages">

@@ -4,7 +4,7 @@
             <img src="./IMG/logo-sante.svg" alt="sante">
         </div>
         <h1>L’Intelligence Artificielle pour la santé </h1>
-        <h2>Améliorer la prise en charge et personnaliser les traitements</h2>
+        <h2 class="h2pages">Améliorer la prise en charge et personnaliser les traitements</h2>
 
         <section id="sante">
             <article class="ContenuPages">

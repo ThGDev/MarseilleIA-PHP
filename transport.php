@@ -4,7 +4,7 @@
             <img src="./IMG/logo-truck.svg" alt="Transport">
         </div>
         <h1>L’Intelligence Artificielle dans la transport</h1>
-        <h2>L'IA permet de fluidifier le trafic routier</h2>
+        <h2 class="h2pages">L'IA permet de fluidifier le trafic routier</h2>
 
         <section id="sante">
             <article class="ContenuPages">

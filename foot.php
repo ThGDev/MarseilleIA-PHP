@@ -32,5 +32,7 @@
             <li><a href="https://www.marseille.fr/presse" target="_blank">Espace Presse</a></li>
     </ul>
 </footer>
+<script src="https://unpkg.com/scrollreveal"></script>
+<script src="./JS/app.js"></script>
 </body>
 </html>

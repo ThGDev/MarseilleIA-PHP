@@ -4,7 +4,7 @@
             <img src="./IMG/logo-phone.svg" alt="phone">
         </div>
         <h1>L’Intelligence Artificielle dans les communications</h1>
-        <h2>L’IA et la communication: vers de nouvelles formes de créativité artificielle</h2>
+        <h2 class="h2pages">L’IA et la communication: vers de nouvelles formes de créativité artificielle</h2>
         
         <section id="communication">
             <article class="ContenuPages">

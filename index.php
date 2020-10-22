@@ -1,10 +1,12 @@
 <?php include("head.php"); ?>
 <!-- CONTENU HTML -->
 <!--HTML DE YVAN-->
-<h1 class="normal"> De l’Intelligence Artificielle pour les Marseillais </h1>
-        <h2>Vous cherchez un investissement intelligent ?</h2>
-        <img class="logocentre" src="./IMG/profil-homme-ia.jpg" width="439px" height="292px" alt="">
-        <p class="TxtAccroche">Afin d’améliorer la qualité de vie de ses citadins, la citée phocéenne a pour projet d’investir  dans l’IA pour profiter des solutions qu’elle propose. Nous vous proposons, grâce à ce projet, d’être acteur de cette révolution numérique et profiter des retombées bénéfiques de cet investissement.</p>
+        <h1 class="normal"> De l’Intelligence Artificielle pour les Marseillais </h1>
+        <h2 class="h2index">Vous cherchez un investissement intelligent ?</h2>
+        <div class="resume">
+            <img class="logocentre" src="./IMG/profil-homme-ia.jpg" width="439px" height="292px" alt="">
+            <p class="TxtAccroche">Afin d’améliorer la qualité de vie de ses citadins, la citée phocéenne a pour projet d’investir  dans l’IA pour profiter des solutions qu’elle propose. Nous vous proposons, grâce à ce projet, d’être acteur de cette révolution numérique et profiter des retombées bénéfiques de cet investissement.</p>
+        </div>
         <button class="buton" onclick="window.location.href='./form.php';">SOUTENEZ-NOUS!</button>
 
 <!--HTML DE LE-->

@@ -1,7 +1,7 @@
 <?php include("head.php"); ?>
 <!-- CONTENU HTML -->
-<h2>Vous souhaitez nous soutenir ?</h2>
-        <h4>Veuillez compléter ce formulaire :</h4>
+        <h2 class="h2pages">Vous souhaitez nous soutenir ?</h2>
+        <h4 class="h4pages">Veuillez compléter ce formulaire :</h4>
 
         <form>
             <!--CHAMPS DE FORMULAIRE-->
