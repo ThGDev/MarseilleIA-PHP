@@ -1,7 +1,6 @@
 // Je créé une constante "sr" pour éviter de retaper "ScrollReveal({})" à chaque fois 
 const sr = ScrollReveal({
-    duration: 2000,
-    reset: true
+    duration: 2000
 });
 // POUR H1
 sr.reveal('h1', {
@@ -40,5 +39,9 @@ sr.reveal('.ImgIllust');
 sr.reveal('.ButtonForm');
 
 /* =========== formulaire ========== */
-sr.reveal('.h4pages');
-sr.reveal('form');
+sr.reveal('.h4pages', {
+    delay: 1000
+});
+sr.reveal('form', {
+    delay: 1000
+});
