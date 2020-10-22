@@ -18,10 +18,10 @@
         
         <div class= "icone">
             <p>Webcams FR<i class="fas fa-chevron-down"></i></p>
-            <a href="https://twitter.com/marseille"><i class="fab fa-twitter"></i></a>
-            <a href="https://facebook.com/marseilleville/"><i class="fab fa-facebook-f"></i></a>
-            <a href="https://www.instagram.com/villemarseille/"><i class="fab fa-instagram"></i></a>
-            <a href="https://www.youtube.com/user/VilledeMarseille"><i class="fab fa-youtube"></i></a>
+            <a href="https://twitter.com/marseille" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://facebook.com/marseilleville/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/villemarseille/" target="_blank"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.youtube.com/user/VilledeMarseille" target="_blank"><i class="fab fa-youtube"></i></a>
         </div>
         
         <nav>
