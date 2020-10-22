@@ -17,6 +17,6 @@
                     </article>
                 </section>        
                 <img class="ImgIllust" src="./IMG/image-dechets.png" alt="Image déchets IA">
-                <a href="./form.html" class="ButtonForm">CONTACTEZ-NOUS!</a>
+                <a href="./form.php" class="ButtonForm">CONTACTEZ-NOUS!</a>
 <!-- FIN DU CONTENU HTML -->
 <?php include("foot.php"); ?>
